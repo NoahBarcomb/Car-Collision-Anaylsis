@@ -4,4 +4,4 @@ data was pulled from https://catalog.data.gov/dataset/crash-reporting-drivers-da
 The report below highlights the findings of the data.
 [report.docx](https://github.com/user-attachments/files/17001059/report.docx)
 
-Additionally, the python file that was used to clean, interpret, and modify the original dataset is int he repository.
+Additionally, the python file that was used to clean, interpret, and modify the original dataset is in the repository.
